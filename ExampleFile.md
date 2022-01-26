@@ -1,4 +1,4 @@
-## NOTE 1
+## <center>NOTE 1<\center>
 
 #### Preservation of Compactness
 

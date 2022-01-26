@@ -36,7 +36,7 @@ COLOR word
 COLOR word1 word2 ... wordn COLOR
 ~~~
 
-(note that I will be using a lot of cues to make my job easier matching stuff with regex,  I'll try to make the regexes as specific as possible to try and maximize performance by minimizing searches on non matching d
+(note that I will be using a lot of cues to make my job easier matching stuff with regex,  I'll try to make the regexes as specific as possible to try and [maximize performance by minimizing searches on non matching input](https://www.loggly.com/blog/regexes-the-bad-better-best/)
 
 one more thing that the translation will let me do is to add boilerplate code to the markdown wihtout getting my actual notes messy, 
 some examples are working with html tags that dont have native support in markdown (like colors) and working with headers and footers
