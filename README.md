@@ -3,7 +3,7 @@
 I got kinda tired of writing a lot when it came to taking notes with markdown
 that is why I decided to make my job easier by creating a language that translates my custom language to markdown
 
-The language will be processed with markdown, so for the translation I am going to use perl because of the CPAN and some evidence that its regexes are faster than pythons and more feature reach than the UNIX ones
+The language will be processed with markdown, so for the translation I am going to use perl because of the CPAN and some evidence that its regexes are (faster than pythons)[https://stuffivelearned.org/doku.php?id=programming:general:phpvspythonvsperl] and more feature reach than the UNIX ones
 
 The langauge will look the following way: (subject to change) (only mentioning what is different from traditional markdown)
 
