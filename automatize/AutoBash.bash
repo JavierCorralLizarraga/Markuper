@@ -5,9 +5,8 @@
 # 2. run the perl script with the file to translate it
 perl -e "$1" # e flag is for checking if the file exists
 # 3. create a new file with the same name and 'md' with the translated markdown
-# touch  
+# touch $1.md
 
-# something > ActualOutput.md
 # 4. call pandoc to compile the markdown into pdf
 pandoc -s -o $1.pdf $1.md
 
