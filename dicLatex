@@ -1,0 +1,48 @@
+# campos
+RR : \mathbb{R}
+NN : \mathbb{N}
+ZZ : \mathbb{Z}
+
+# conjuntos
+subc : \subset
+supc : \supset
+union : \cup
+inter : \cap
+in : \in 
+nin : \notin
+
+# logica
+neq : \neq
+mm : \pm
+nel : \neg
+AA : \forall
+EE : \exists
+and : \wedge
+or : \vee
+then : \rightarrow
+thus : \therefore
+
+# calculo
+inf : \infty
+aprox : \approx
+
+# letras griegas
+alfa : \alpha
+eps : \epsilon
+teta : \theta
+lambda : \lambda
+beta : \beta
+pi : \pi
+omega : \omega
+fi : \phi
+ro : \rho
+gamma : \gamma
+
+# text basics
+** _ : ** _ **
+# colors
+BLUE : <span style="color:blue"> 
+RED : <span style="color:red"> 
+ORA : <span style="color:orange"> 
+PUR : <span style="color:purple"> 
+GRE : <span style="color:green"> 

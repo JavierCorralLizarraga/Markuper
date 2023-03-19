@@ -1,0 +1,41 @@
+Hoy 
+(deberia convertirse en la fecha de hoy)
+
+Aplicaciones de computabilidad en la logica de 1er orden
+En lo que sigue trabajaremos en el contexto de 
+    L sub TNumeros =
+    ang NN, 0, S, +, *, E, < 
+a la estructura estandar
+
+def cuantificadores acotados
+
+si fi es una ltnum formula y x es una variable que no aparece en el termino t, 
+entonces 
+
+par AA x men t 
+fi significa 
+aa x 
+par x men t ent fi
+
+par aa x meq 
+fi significa 
+aa x 
+cor 
+par x men t oo x = t 
+ent fi
+
+par ee x men t 
+fi significa ee x 
+par x men t yy fi 
+
+def 
+La coleccion de las sigma-formulas se define como el conjunto que contiene a 
+todas las formulas atomicas asi como a todas las negaciones de formulas atomicas
+y que es cerrado bajo:
+    1 conjunciones y disyunciones
+    par yy,  oo
+    2 cuantificacion acotada 
+    par de los 4 tipos
+    3 cuantificacion existencial 
+    par de toda la vida
+    
